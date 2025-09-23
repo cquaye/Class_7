@@ -18,7 +18,7 @@
     * Click **Create**
 
 2. **Deploying an EC2 Instance**
-    * 
+    
     * In the console, select instances and click **launch instances**
     * Name your instance. 
     * Leave the AMI as default
@@ -39,7 +39,7 @@
     * Once this is complete, go to  **instances** section.
     * Visually inspect that your newly deployed instance is running and that all of the health checks are successful. 
     * In the instance summary  copy the **Public DNS** of your instance
-    * Open a web browser, type in the url **http://** and then paste your copied DNS with the prefix
+    * Open a web browser type in the url **http://** and then paste your copied DNS with the prefix
     * If all is working correctly, you should see your script running on the web page. 
 
 
