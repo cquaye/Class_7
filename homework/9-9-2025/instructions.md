@@ -1,8 +1,8 @@
 # EC2 configuraton and Teardown instructions
 ### These instructions will walk you through setting up and tearing down an EC2 instance in AWS. 
 ### You will need: 
-#### open AWS console
-#### Template web script from Theo's repo. 
+#### *open AWS console
+#### *Template web script from Theo's repo. 
 
 1. **Create a Security group**
    *  In AWS search for EC2
