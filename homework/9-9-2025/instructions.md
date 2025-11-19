@@ -44,8 +44,8 @@
 
 
 3. **Teardown**
-    * Naiviagte to the *Instance** section in your EC2 console. 
-    * There you should see your running E2 instance. 
+    * Naiviagte to the **Instance** section in your EC2 console. 
+    * There you should see your running EC2 instance. 
     * Make sure the instance is highlighted with the check box ticked. 
     * Navigate to the tab titled **instance state** and select **Terminate instance**.
     * This will take a while but the EC2 instance will be destroyed. 
